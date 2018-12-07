@@ -1,0 +1,53 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+body{
+    background-color: #fc6;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.burger-form > button[type=submit]{
+    margin: 15px 0;
+}
+
+.well-burger{
+    border-radius: 6px;
+}
+
+.well-burger > p{
+    display: inline-block;
+    margin: 7px 0;
+}
+
+h2{
+    color: #f30;
+}
+pre {
+	padding: 6.5px !important;
+}
+.paddingbtn {
+	margin: 0 0 10px;
+	background-color:red !important;
+	color:white;
+}
+.btn-default{
+	background-color:limegreen;
+	color:white;
+}
