@@ -1,11 +1,11 @@
 var mysql = require("mysql");
 
 var connection = mysql.createConnection({
-  host: "localhost",
-  port: 3306,
-  user: "root",
-  password: "norwich12",
-  database: "burgers_db"
+  host: "damnburger.herokuapp.com",
+  //port: 3306,
+  user: "ba11fff6150568",
+  password: "dadd457b",
+  database: "heroku_ae28d2767e94a53"
 });
 
 connection.connect(function(err) {
